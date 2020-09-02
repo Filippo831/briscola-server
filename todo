@@ -1,0 +1,8 @@
+[x] sistema i return della funziona logica di vincita
+[x] sposta le funzioni in un altro file 
+[] crea il server con socket io (forse non serve)
+[] metti a posto i server che non ricevono il get request
+[] non funziona il redirect nei vari server
+[] verifica che il server non sia pieno
+[] metti automaticamente le persone nel server
+[] fine!!!
